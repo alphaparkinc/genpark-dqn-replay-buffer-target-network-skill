@@ -1,0 +1,6 @@
+name: genpark-dqn-replay-buffer-target-network-skill
+version: 1.0.0
+description: Deep Q-Network experience replay buffer and Polyak target network averaging engine
+command: python
+args:
+  - mcp_server.py
